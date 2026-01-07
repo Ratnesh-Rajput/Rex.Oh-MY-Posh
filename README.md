@@ -39,6 +39,6 @@ In settings.json of terminal, add/edit this in list array in profiles object  :
             }
 ```
 
-Locate ohmyposh's path on your system (e.g.):
-```& "~\Local\Programs\oh-my-posh\bin\oh-my-posh.exe" init pwsh --config "~\Local\Programs\oh-my-posh\themes\rex.omp.json" | Invoke-Expression```
+Locate ohmyposh's path on your system & also add my theme/ recreate a different theme to enhance the feel of Terminal UI (e.g.):
+```& "~\Local\Programs\oh-my-posh\bin\oh-my-posh.exe" init pwsh --config "~\Local\Programs\oh-my-posh\themes\rexTHeme.omp.json" | Invoke-Expression```
 
